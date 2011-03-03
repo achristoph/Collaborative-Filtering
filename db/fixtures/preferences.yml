@@ -1,0 +1,140 @@
+1:
+  person: lisa
+  item: lady
+  score: 2.5
+2:
+  person: lisa
+  item: snake
+  score: 3.5
+3:
+  person: lisa
+  item: luck
+  score: 3.0
+4:
+  person: lisa
+  item: superman
+  score: 3.5
+5:
+  person: lisa
+  item: dupree
+  score: 2.5
+6:
+  person: lisa
+  item: night
+  score: 3.0
+7:
+  person: gene
+  item: lady
+  score: 3.0
+8:
+  person: gene
+  item: snake
+  score: 3.5
+9:
+  person: gene
+  item: luck
+  score: 1.5
+10:
+  person: gene
+  item: superman
+  score: 5.0
+11:
+  person: gene
+  item: night
+  score: 3.0
+12:
+  person: gene
+  item: dupree
+  score: 3.5
+13:
+  person: michael
+  item: lady
+  score: 2.5
+14:
+  person: michael
+  item: snake
+  score: 3.0
+15:
+  person: michael
+  item: superman
+  score: 3.5
+16:
+  person: michael
+  item: night
+  score: 4.0
+17:
+  person: claudia
+  item: snake
+  score: 3.5
+18:
+  person: claudia
+  item: luck
+  score: 3.0
+19:
+  person: claudia
+  item: night
+  score: 4.5
+20:
+  person: claudia
+  item: superman
+  score: 4.0
+21:
+  person: claudia
+  item: dupree
+  score: 2.5
+22:
+  person: mick
+  item: lady
+  score: 3.0
+23:
+  person: mick
+  item: snake
+  score: 4.0
+24:
+  person: mick
+  item: luck
+  score: 2.0
+25:
+  person: mick
+  item: superman
+  score: 3.0
+26:  
+  person: mick
+  item: night
+  score: 3.0
+27:
+  person: mick
+  item: dupree
+  score: 2.0
+28:
+  person: jack
+  item: lady
+  score: 3.0
+29:
+  person: jack
+  item: snake
+  score: 4.0
+30:
+  person: jack
+  item: night
+  score: 3.0
+31: 
+  person: jack
+  item: superman
+  score: 5.0
+32:
+  person: jack
+  item: dupree
+  score: 3.5
+33:
+  person: toby
+  item: snake
+  score: 4.5
+34:
+  person: toby
+  item: dupree
+  score: 1.0
+35:
+  person: toby
+  item: superman
+  score: 4.0
